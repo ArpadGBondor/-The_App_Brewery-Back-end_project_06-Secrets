@@ -14,7 +14,7 @@ A back-end program, that can manage user authentication. Users can register and 
  - Bootstrap
 
 #### The project is not deployed yet.
-This was my first attemt to separate a little the 'spaghetti code' of the course, and I still want to refactor it before deploying the project.
+This was my first attemt to separate a little the 'spaghetti code' of the course, and I still want to work on refactoring it before deploying the project.
 
 #### How to run: (from terminal)
  Clone the repository: 
