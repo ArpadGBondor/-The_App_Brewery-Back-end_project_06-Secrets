@@ -29,9 +29,9 @@ This was my first attempt to separate a little the 'spaghetti code' of the cours
  Download, install and run MongoDB
  > https://www.mongodb.com/try/download/community
 
-You need to register your application to get ID and SECRET keys from Google, Facebook and GitHub.
-[(Google login registration)](https://console.developers.google.com/apis/)
-[(Facebook login registration)](https://developers.facebook.com/)
+You need to register your application to get ID and SECRET keys from Google, Facebook and GitHub.  
+[(Google login registration)](https://console.developers.google.com/apis/)  
+[(Facebook login registration)](https://developers.facebook.com/)  
 [(GitHub login registration)](https://github.com/settings/developers)
  
  Create a file named '.env' and set these [enviroment variables](https://www.npmjs.com/package/dotenv):
