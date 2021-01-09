@@ -1,0 +1,39 @@
+
+body {
+  background-color: #E8ECEF;
+  color: #4263f2;
+}
+
+input.form-control, input.form-control:focus{
+  color: #4263f2;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #4263f2;
+}
+
+.btn-dark {
+  background-color: #4263f2;
+  color: white;
+}
+
+.btn-dark:hover {
+  background-color: blue;
+  color: white;
+}
+
+.btn-light {
+  color: #4263f2;
+}
+
+.btn-light:hover {
+  color: blue;
+}
