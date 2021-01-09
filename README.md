@@ -13,7 +13,7 @@ A back-end program, that can manage user authentication. Users can register and 
  - CSS3
  - Bootstrap
 
-#### The project is not daployed yet.
+#### The project is not deployed yet.
 
 #### How to run: (from terminal)
  Clone the repository: 
