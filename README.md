@@ -51,7 +51,7 @@ You need to register your application to get ID and SECRET keys from Google, Fac
  > GITHUB_REDIRECT_URL=http://localhost:3000/auth/github/secrets  
 
  Run program: 
- > nodemon app.js
+ > node app.js
  
  Send get request from browser:
  > Open: http://localhost:3000
