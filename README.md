@@ -1,4 +1,4 @@
-# The App Brewery - Back-end project 06 - Secrets
+# [The App Brewery - Back-end project 06 - Secrets](https://gabriel-secrets.herokuapp.com/)
 
 ## Udemy - The Complete 2020 Web Development Bootcamp
 
@@ -13,8 +13,7 @@ A back-end program, that can manage user authentication. Users can register and 
  - CSS3
  - Bootstrap
 
-#### The project is not deployed yet.
-This was my first attempt to separate a little the 'spaghetti code' of the course, and I still want to work on refactoring it before deploying the project.
+#### The project is deployed on [Heroku](https://gabriel-secrets.herokuapp.com/).
 
 #### How to run: (from terminal)
  Clone the repository: 
