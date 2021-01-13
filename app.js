@@ -8,8 +8,8 @@ const log = require(__dirname + '/log.js');
 const db = require(__dirname + '/database/database.js');
 const session = require('express-session');
 const passport = require('passport');
-const cookieParser = require('cookie-parser')
 const flash = require('connect-flash');
+const cookieParser = require('cookie-parser')
 
 // port number for Heroku
 const port = process.env.PORT;
